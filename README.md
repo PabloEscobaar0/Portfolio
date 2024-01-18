@@ -12,10 +12,15 @@ N.H. Ranka High School
 ### Skills
 
 Python Language
+
 C Language
+
 SQL Language
+
 Java
+
 Data Base Management
+
 Cloud Management
 (AWS, Docker, CI/CD, Kubernetes, Git, Jenkins )
 

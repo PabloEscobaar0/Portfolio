@@ -41,7 +41,7 @@ Power BI foundation
 
 ### Projects
 
-#Medical Insurance Cost Prediction
+__Medical Insurance Cost Prediction__
 
 The goal of this project is to give people an estimate of
 how much they need based on their individual health
@@ -51,7 +51,7 @@ using CI/CD pipeline. It was regression problem which
 gave r2 score of 85% after tuning parameters using
 XGBoost, Random forest classifiers.
 
-#Thyroid Disease Prediction
+__Thyroid Disease Prediction__
 
 Developed an end to end application using Machine
 learning, cloud based infrastructure for healthcare
